@@ -981,11 +981,6 @@ file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
-file = "mods/.index/fusion-connected-textures.pw.toml"
-hash = "ef2b6743a883a19927359565b1046553983e4dc8ff6907f49eda4598cb8b2362"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d0c02a64342e1e9023264beb3012459ea76fc535a6d1df7d54fb0785cc2c1058"
 metafile = true
