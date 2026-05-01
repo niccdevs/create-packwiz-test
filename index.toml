@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = ".qmenu_opened.marker"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -730,7 +734,7 @@ hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d27510cf4e6be326360386a758ef3badfd1752eb227da6dc0b1c8dcc1920f11a"
+hash = "b0498ab194c82f1d60e0a124b19c179785a0139f525daf66753f4ce128a29185"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -1081,16 +1085,6 @@ hash = "d4b4be4ea102eaae163f5266616a7d676bc7f5d573982b2527372dc0e0281225"
 metafile = true
 
 [[files]]
-file = "mods/chunky-offline.pw.toml"
-hash = "91bc613342bbad223d67946018e68977c268b21252f0bc1029264400c19aa1ce"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "75c3db00abc811df1bf2aecdca56fd67a5113bb155dbdf173e4534b406b2d976"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a17e9d14a3efb24b659673f58de17eacf700e46062d91b6a45359145dc220282"
 metafile = true
@@ -1098,6 +1092,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "faf97ee51a85007fe8fa7a0ffca9a9d661a7d86a7cf02e5623c214898815d9cb"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "67b14c03c8920fc58b1510bb24bbc07aa4129132eac9e97620fcebf5e8e55405"
 metafile = true
 
 [[files]]
@@ -1293,6 +1292,11 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0fd278550a393822aab19c3f9f2823c36b197cbb513c97469d93265c408986aa"
+metafile = true
+
+[[files]]
+file = "mods/easy-elytra-takeoff.pw.toml"
+hash = "347782f3cb52b3f86ad76a2e0f7f2e6f3b528c8128e2624dabd836fd46d85832"
 metafile = true
 
 [[files]]
