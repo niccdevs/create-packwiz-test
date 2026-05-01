@@ -5,6 +5,7 @@
 !/pack.toml
 !/index.toml
 !/.gitignore
+!/.nojekyll
 
 # packwiz-tracked content folders
 !/mods/
