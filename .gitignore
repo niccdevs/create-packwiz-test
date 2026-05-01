@@ -20,5 +20,4 @@
 
 # only commit packwiz metadata, never raw mod jars
 mods/*
-!mods/.index/
-!mods/.index/**
+!mods/*.pw.toml
