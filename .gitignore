@@ -8,6 +8,7 @@
 !/.nojekyll
 !/.gitattributes
 !/.packwizignore
+!/sync.sh
 
 # packwiz-tracked content folders
 !/mods/
