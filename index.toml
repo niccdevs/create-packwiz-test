@@ -37,6 +37,10 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/achiopt-common.toml"
+hash = "e9247671f56b0e448914785063aef58cc1277f7a4b7b084334e06117efd8cd67"
+
+[[files]]
 file = "config/advancednetherite-client.toml"
 hash = "f8c07c75bb06a3cca5c10a7bca924e96c2aa273b679f9cc1fa961ac50001977b"
 
@@ -290,7 +294,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "d3baa500cc89cfcfe20a0644acf2ff1f45e05da4e368f5a7df4609c449f683cf"
+hash = "e600a05f061f1a356534f2d5a2c7d9c94f68464495cab7a680d94792d817289f"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -522,7 +526,7 @@ hash = "ddd6e6bd4b9c65cbd64ef4403d827b84bd9073ce1c7fc01129c1947d0d6fc3e0"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "df0477db4266bfd39f7e03c18f5502b669fde7841e3b9fb804abccd7c3922633"
+hash = "7c355e567625d8b999784e283c12a4f4a9860b195324269bd71b6f4bea492370"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -574,7 +578,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "8a142f80291c8868d1a55eaecd3b711d5730ef0796a30290016bf2b4c2f1cd72"
+hash = "616f620163b982d47a6e688db8a8749804dfe4d46ddfa16ca284f21f0a3bb7b9"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -697,6 +701,10 @@ file = "config/naturescompass-common.toml"
 hash = "e769b3fba5d717bc42a38043aee9b08070af87e22700d07a5f6e69c3efca4a31"
 
 [[files]]
+file = "config/necronomicon.json5"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
+
+[[files]]
 file = "config/neoforge-client.toml"
 hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
 
@@ -722,7 +730,7 @@ hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d07c1b2c7f8380bb59af9caa8eb9f32512618446aecf12d859fadd926d0d70ed"
+hash = "d27510cf4e6be326360386a758ef3badfd1752eb227da6dc0b1c8dcc1920f11a"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -971,6 +979,11 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 [[files]]
 file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "mods/.index/fusion-connected-textures.pw.toml"
+hash = "ef2b6743a883a19927359565b1046553983e4dc8ff6907f49eda4598cb8b2362"
+metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1465,11 +1478,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "e1876181face1aa5d93996587a5dfb6d4c981afb8657187bdbc9f79c272a052b"
-metafile = true
-
-[[files]]
-file = "mods/lazydfu-reloaded.pw.toml"
-hash = "2afa25a066ff945ecbd1e3d2abdb2399de27589dcbfc7d98200b4fca8b196fc6"
 metafile = true
 
 [[files]]

@@ -5,6 +5,14 @@
     "name": "neoforge",
     "version": "neoforge-21.1.228"
   },
+  "achievements-17.10.16 Release-neoforge-1.21.1.jar": {
+    "jarName": "achievements-17.10.16 Release-neoforge-1.21.1.jar",
+    "modId": "achievements",
+    "name": "200+ Achievements",
+    "version": "17.10.16",
+    "curseForgeHash": 3314365229,
+    "modrinthHash": "5511b8fc598ca058b6fe71c2392cbe0d0698076f"
+  },
   "advancednetherite-neoforge-2.3.1-1.21.1.jar": {
     "jarName": "advancednetherite-neoforge-2.3.1-1.21.1.jar",
     "modId": "advancednetherite",
@@ -202,14 +210,6 @@
     "curseForgeHash": 2801147052,
     "modrinthHash": "0aecd2d043ac25299254623fafdd9129ab2ba9c2"
   },
-  "controlify-3.0.0-beta.3+1.21.1-neoforge.jar": {
-    "jarName": "controlify-3.0.0-beta.3+1.21.1-neoforge.jar",
-    "modId": "controlify",
-    "name": "Controlify",
-    "version": "3.0.0-beta.3+1.21.1-neoforge",
-    "curseForgeHash": 3467913877,
-    "modrinthHash": "1c7914bafdb80b826f372b40fb7ce18d3b525b0d"
-  },
   "Controlling-neoforge-1.21.1-19.0.5.jar": {
     "jarName": "Controlling-neoforge-1.21.1-19.0.5.jar",
     "modId": "controlling",
@@ -241,14 +241,6 @@
     "version": "1.11.8",
     "curseForgeHash": 3604913290,
     "modrinthHash": "558bc3dfee4d6e5fd7a3d7c794bb01df1aff40e9"
-  },
-  "Create Encased-1.21.1-1.8-ht2.jar": {
-    "jarName": "Create Encased-1.21.1-1.8-ht2.jar",
-    "modId": "createcasing",
-    "name": "Create Encased",
-    "version": "1.8-ht2",
-    "curseForgeHash": 1631575314,
-    "modrinthHash": "957a7ee1741c7a8536bedd401a923d7fb73a7092"
   },
   "create-1.21.1-6.0.10.jar": {
     "jarName": "create-1.21.1-6.0.10.jar",
@@ -409,14 +401,6 @@
     "version": "2.1.1-1.21.1",
     "curseForgeHash": 543281262,
     "modrinthHash": "a29f65eb4bbded2ca977a1453f90b6570e812b85"
-  },
-  "CreateNumismatics-1.0.19integration+neoforge-mc1.21.1.jar": {
-    "jarName": "CreateNumismatics-1.0.19integration+neoforge-mc1.21.1.jar",
-    "modId": "numismatics",
-    "name": "Create: Numismatics",
-    "version": "1.0.19integration+neoforge-mc1.21.1-local",
-    "curseForgeHash": 299076156,
-    "modrinthHash": "14385a77350e9ca85f78eca1143d591a69e36f96"
   },
   "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar": {
     "jarName": "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar",
@@ -791,6 +775,14 @@
     "curseForgeHash": 563386165,
     "modrinthHash": "4d83e8a8e8cb06b306d2cea1e903680fe513f1f3"
   },
+  "LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar": {
+    "jarName": "LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
+    "modId": "leavesbegone",
+    "name": "Leaves Be Gone",
+    "version": "21.1.0",
+    "curseForgeHash": 1352713954,
+    "modrinthHash": "241b235d44f437d6a7993741ebf8b5cab8a22713"
+  },
   "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar": {
     "jarName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
     "modId": "legendarytooltips",
@@ -887,6 +879,14 @@
     "curseForgeHash": 1427430770,
     "modrinthHash": "e19721873bebc4dbc1674bb101af39d0ea406b95"
   },
+  "Necronomicon-NeoForge-1.6.0+1.21.jar": {
+    "jarName": "Necronomicon-NeoForge-1.6.0+1.21.jar",
+    "modId": "necronomicon",
+    "name": "Necronomicon",
+    "version": "1.6.0",
+    "curseForgeHash": 644849435,
+    "modrinthHash": "4d81055810e07a94b68d16ab20ec298ad0d597a0"
+  },
   "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar": {
     "jarName": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
     "modId": "nochatreports",
@@ -974,14 +974,6 @@
     "version": "4.1-477",
     "curseForgeHash": 2610801600,
     "modrinthHash": "91adcc7cf8a1f9a529fcbb7fb6ea0adfeba91b8d"
-  },
-  "redstone_crafting-1.0.0-neoforge-1.21.1.jar": {
-    "jarName": "redstone_crafting-1.0.0-neoforge-1.21.1.jar",
-    "modId": "redstone_crafting",
-    "name": "Redstone crafting",
-    "version": "1.0.0",
-    "curseForgeHash": 3335152936,
-    "modrinthHash": "166af890570c740b996026d595a683b5b2a22a84"
   },
   "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar": {
     "jarName": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
