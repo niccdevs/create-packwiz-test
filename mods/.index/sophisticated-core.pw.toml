@@ -1,18 +1,13 @@
-filename = 'sophisticatedcore-1.21.1-1.4.33.1808.jar'
-name = 'Sophisticated Core'
-side = ''
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'sophisticatedcore-1.21.1-1.4.33.1808.jar'
+filename = "sophisticatedcore-1.21.1-1.4.33.1808.jar"
+name = "Sophisticated Core"
+side = "both"
 
 [download]
-hash = 'd7f68f39193abf557cd27c27507f20deb499b593'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "1dce78949b386995d5099883dc4e49e7cf7c3000863325f90bbc233a19f028dad0ccb8829bbde1b8f6944fdb7a8e266a39dc0cc930957b1544424d14c396dda2"
+mode = "url"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/SxdPiugu/sophisticatedcore-1.21.1-1.4.33.1808.jar"
 
-[update.curseforge]
-file-id = 8014104
-project-id = 618298
+[update.modrinth]
+mod-id = "nmoqTijg"
+version = "SxdPiugu"

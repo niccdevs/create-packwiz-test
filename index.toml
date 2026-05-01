@@ -17,6 +17,10 @@ file = ".mixin.out/class/net/minecraft/world/entity/animal/axolotl/Axolotl.class
 hash = "528c5fcc3e37f134f6320661802c52cbb75370d9b3230a8c01599cb800abc904"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = ".sable/natives/sable_rapier_x86_64_windows.dll"
 hash = "52ba0aade660a2cb7ae89794fc8366a5eed7ab9d42b72cc584213cbf0c681c86"
 
@@ -3484,7 +3488,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/create-goggles.pw.toml"
-hash = "f908042aeb32bb324d2475b0d37bcac65b2a140c2f4c31cc166c94f7434e3b45"
+hash = "bdb83f029c2d403c391f74a62d970f34d32d5227a17b6421e57c33255479213b"
 metafile = true
 
 [[files]]
@@ -3999,17 +4003,17 @@ metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-backpacks-create-integration.pw.toml"
-hash = "c2e33523f6bdcd08e0ba69c631053c8c89348b6dd49c54ca30c8377b664919b5"
+hash = "60eff38595f94496cd0e9731d7647351ccf2e22bfded4a0362011cf6f6ffa5ff"
 metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-backpacks.pw.toml"
-hash = "c9071383313f6d9b2c5d1f86d867c1d2370ec5aba08a07e8072e5542a9233011"
+hash = "1ef0e75c47501bd4135e400befcd4783252e84b68661884076f2820d9e5df220"
 metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-core.pw.toml"
-hash = "60db0aaf122bfba88a3f1c2c2f6ac35e699c76540a4724495099fdeb4830c1ca"
+hash = "adf0c849172eb5c064415be27543c5bcdf4009a50e8cc306208d29b109eaa70e"
 metafile = true
 
 [[files]]
