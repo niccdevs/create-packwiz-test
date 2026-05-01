@@ -5,6 +5,14 @@
     "name": "neoforge",
     "version": "neoforge-21.1.228"
   },
+  "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar": {
+    "jarName": "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
+    "modId": "achiopt",
+    "name": "AchievementOptimizer",
+    "version": "2.1.0",
+    "curseForgeHash": 3649856519,
+    "modrinthHash": "691c4686c52c8740cba6beff392cbc3fbface5b0"
+  },
   "achievements-17.10.16 Release-neoforge-1.21.1.jar": {
     "jarName": "achievements-17.10.16 Release-neoforge-1.21.1.jar",
     "modId": "achievements",
@@ -85,14 +93,6 @@
     "curseForgeHash": 1806718778,
     "modrinthHash": "8437f2f2f8292752af3ccae1bf6526db1ed87b8b"
   },
-  "BetterF3-11.0.3-NeoForge-1.21.1.jar": {
-    "jarName": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
-    "modId": "betterf3",
-    "name": "BetterF3",
-    "version": "11.0.3",
-    "curseForgeHash": 2574672049,
-    "modrinthHash": "8fa17df26d3650416bc124be7a264bc1566a3b26"
-  },
   "bigcontraptions-neoforge-1.0.jar": {
     "jarName": "bigcontraptions-neoforge-1.0.jar",
     "modId": "bigcontraptions",
@@ -165,22 +165,6 @@
     "curseForgeHash": 2122277341,
     "modrinthHash": "a56aae316e52564a7e49b0aadc6c49441ef9f62d"
   },
-  "Chunky-NeoForge-1.4.23.jar": {
-    "jarName": "Chunky-NeoForge-1.4.23.jar",
-    "modId": "chunky",
-    "name": "Chunky",
-    "version": "1.4.23",
-    "curseForgeHash": 233801764,
-    "modrinthHash": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
-  },
-  "chunky-offline-v1.1.0.jar": {
-    "jarName": "chunky-offline-v1.1.0.jar",
-    "modId": "mr_chunky_offline",
-    "name": "Chunky Offline",
-    "version": "1-v1.1.0",
-    "curseForgeHash": 796761667,
-    "modrinthHash": "5783f3ec055a3e5f369cfd169d62c2c2f4da44d4"
-  },
   "cloth-config-15.0.140-neoforge.jar": {
     "jarName": "cloth-config-15.0.140-neoforge.jar",
     "modId": "cloth_config",
@@ -197,6 +181,14 @@
     "curseForgeHash": 2871381177,
     "modrinthHash": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
   },
+  "collective-1.21.1-8.22.jar": {
+    "jarName": "collective-1.21.1-8.22.jar",
+    "modId": "collective",
+    "name": "Collective",
+    "version": "8.22",
+    "curseForgeHash": 287649027,
+    "modrinthHash": "f3f8b8baf461ea8e8664cf1f8fe6593f8073f36d"
+  },
   "connector-2.0.0-beta.14+1.21.1-full.jar": {
     "jarName": "connector-2.0.0-beta.14+1.21.1-full.jar",
     "curseForgeHash": 2277396892,
@@ -209,6 +201,14 @@
     "version": "3.0.0+1.21.neoforge",
     "curseForgeHash": 2801147052,
     "modrinthHash": "0aecd2d043ac25299254623fafdd9129ab2ba9c2"
+  },
+  "controlify-3.0.0-beta.3+1.21.1-neoforge.jar": {
+    "jarName": "controlify-3.0.0-beta.3+1.21.1-neoforge.jar",
+    "modId": "controlify",
+    "name": "Controlify",
+    "version": "3.0.0-beta.3+1.21.1-neoforge",
+    "curseForgeHash": 3467913877,
+    "modrinthHash": "1c7914bafdb80b826f372b40fb7ce18d3b525b0d"
   },
   "Controlling-neoforge-1.21.1-19.0.5.jar": {
     "jarName": "Controlling-neoforge-1.21.1-19.0.5.jar",
@@ -497,6 +497,14 @@
     "version": "21.1.0",
     "curseForgeHash": 2386658472,
     "modrinthHash": "376c02e44dfcb44b79a494b1dba87b2ffb24277f"
+  },
+  "easyelytratakeoff-1.21.1-4.5.jar": {
+    "jarName": "easyelytratakeoff-1.21.1-4.5.jar",
+    "modId": "easyelytratakeoff",
+    "name": "Easy Elytra Takeoff",
+    "version": "4.5",
+    "curseForgeHash": 617071882,
+    "modrinthHash": "717ee26a9d872fdd8ba382a830efb1e0aa1756b3"
   },
   "EasyMagic-v21.1.4-1.21.1-NeoForge.jar": {
     "jarName": "EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
@@ -910,6 +918,14 @@
     "version": "1.12.2",
     "curseForgeHash": 2721605430,
     "modrinthHash": "a7713e65d5c5bbda51ef396275869db3f5d675a6"
+  },
+  "opacpvp-neoforge-1.0.1-1.21.1.jar": {
+    "jarName": "opacpvp-neoforge-1.0.1-1.21.1.jar",
+    "modId": "opacpvp",
+    "name": "Open Parties PvP Support",
+    "version": "1.0.0",
+    "curseForgeHash": 212974821,
+    "modrinthHash": "b5edf5f6633e693be24548bb6d8e5f4e56db71ea"
   },
   "open-parties-and-claims-neoforge-1.21.1-0.26.2.jar": {
     "jarName": "open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",

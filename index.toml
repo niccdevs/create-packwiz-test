@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".nojekyll"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = ".qmenu_opened.marker"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -265,6 +257,10 @@ file = "config/chunky/tasks/minecraft/overworld.properties"
 hash = "eab0940467adffc2fedaebaab1b9c3389783a4121ad05a106d092ae8513d8b2a"
 
 [[files]]
+file = "config/collective.json5"
+hash = "1bd89e753b05ca51f7260596b5e8e8d53b6510eb39eb05c315a2e4f0d789461b"
+
+[[files]]
 file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
@@ -298,7 +294,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e600a05f061f1a356534f2d5a2c7d9c94f68464495cab7a680d94792d817289f"
+hash = "cffdf372da50236dd358fca5b6d76889ef749c133ac1ddb6b84810314386160c"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -530,7 +526,7 @@ hash = "ddd6e6bd4b9c65cbd64ef4403d827b84bd9073ce1c7fc01129c1947d0d6fc3e0"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "7c355e567625d8b999784e283c12a4f4a9860b195324269bd71b6f4bea492370"
+hash = "0edf6bbb7ae5fa81bbcfc9643da2cfbdab7bd3f66f421aebf6fad735893eaa4f"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -582,7 +578,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "616f620163b982d47a6e688db8a8749804dfe4d46ddfa16ca284f21f0a3bb7b9"
+hash = "4c02a51eb73986d9cf163864d01fe2126bf2279b51416209e32c075d2e16bf58"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -734,7 +730,7 @@ hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "b0498ab194c82f1d60e0a124b19c179785a0139f525daf66753f4ce128a29185"
+hash = "1c32e78b67277a482959165d807fbe66a06b7402a31fe18c17fe282b889756e3"
 
 [[files]]
 file = "config/particle_core_config.toml"

@@ -25,6 +25,8 @@ usercache.json
 usernamecache.json
 *.log
 *.log.gz
+win_event*.txt
+.*
 mods/*.jar
 mods/*.disabled
 mods/.connector/
