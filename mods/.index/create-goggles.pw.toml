@@ -1,0 +1,29 @@
+filename = 'creategoggles-1.21.1-6.1.1-[NEOFORGE].jar'
+name = 'Create Goggles (Create Plus)'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Create Goggles 6.1.1 [NEOFORGE]'
+
+[download]
+hash = 'e0285c31a2d2501439264c33c965409c422cd5b1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6776826
+project-id = 377835
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'OPTIONAL'

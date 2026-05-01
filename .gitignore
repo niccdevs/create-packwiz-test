@@ -1,0 +1,21 @@
+# ignore everything by default
+/*
+
+# pack files
+!/pack.toml
+!/index.toml
+!/.gitignore
+
+# packwiz-tracked content folders
+!/mods/
+!/config/
+!/defaultconfigs/
+!/resourcepacks/
+!/shaderpacks/
+!/kubejs/
+!/scripts/
+
+# only commit packwiz metadata, never raw mod jars
+mods/*
+!mods/.index/
+!mods/.index/**

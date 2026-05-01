@@ -1,0 +1,18 @@
+filename = 'redstone_crafting-1.0.0-neoforge-1.21.1.jar'
+name = 'Create - Creafable Redstone'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Redstone crafting, 1.21.1'
+
+[download]
+hash = '166af890570c740b996026d595a683b5b2a22a84'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6980997
+project-id = 1344233
