@@ -3457,11 +3457,6 @@ hash = "8858e70bdbc2772c2872446d31f0e27784db89b38f778866c83ecce73f35d43f"
 metafile = true
 
 [[files]]
-file = "mods/.index/create-creafable-redstone.pw.toml"
-hash = "45740975accf27a4e71088a43a308c7d396756b4f7086ae6044fbd5de15aa289"
-metafile = true
-
-[[files]]
 file = "mods/.index/create-curios-jetpack.pw.toml"
 hash = "cd7754f8a452e90903f28a9923ee43765cd2bb58abd6a2b4f87cca6b23e95418"
 metafile = true
@@ -3509,11 +3504,6 @@ metafile = true
 [[files]]
 file = "mods/.index/create-liquid-fuel.pw.toml"
 hash = "3f8fa690a8fa310394444fe726e1339dd5f7fd11a791c2b94ea676755ceffd68"
-metafile = true
-
-[[files]]
-file = "mods/.index/create-numismatics-create-6-0-integration.pw.toml"
-hash = "0b249e94194ecb1d00ebbde0ae6f1240c3b654dd46b5177de8f04b494f1dc10e"
 metafile = true
 
 [[files]]
@@ -4137,10 +4127,6 @@ file = "mods/CreateDragonsPlus-1.10.0b.jar"
 hash = "8cc47a5ea04c8bbefd24ebca67d45e6a44f80925723cb2f82676d27b0a2a9d66"
 
 [[files]]
-file = "mods/CreateNumismatics-1.0.19integration+neoforge-mc1.21.1.jar"
-hash = "4206f91cc92254f08f21b7c203f7294fe5b37267748aa70bb7d7c3c86212b70d"
-
-[[files]]
 file = "mods/CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar"
 hash = "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b"
 
@@ -4639,10 +4625,6 @@ hash = "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba"
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
-
-[[files]]
-file = "mods/redstone_crafting-1.0.0-neoforge-1.21.1.jar"
-hash = "c764cb00f2aa122147e9fda9af6aba141cc18d8ee97bb9db6c823f6d48080791"
 
 [[files]]
 file = "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar"
