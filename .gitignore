@@ -6,6 +6,8 @@
 !/index.toml
 !/.gitignore
 !/.nojekyll
+!/.gitattributes
+!/.packwizignore
 
 # packwiz-tracked content folders
 !/mods/
