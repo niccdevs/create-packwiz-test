@@ -1900,3 +1900,7 @@ hash = "a8cd9d4338c7d3d1fffecc4525348a31ea3d219ef31382c51d5ddc3b4b0114e1"
 [[files]]
 file = "shaderpacks/superDuperVanilla.zip"
 hash = "c1cd481ac7ec81b6cb82f162b235509568f6f1ab9e416ccfedaee15e79e1a795"
+
+[[files]]
+file = "sync.sh"
+hash = "38ece59f3d812bffb8c3d9b9131c33f1f3fffc61b8b882d688f0be25fdc30677"
