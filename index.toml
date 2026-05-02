@@ -730,7 +730,7 @@ hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "1c32e78b67277a482959165d807fbe66a06b7402a31fe18c17fe282b889756e3"
+hash = "d52446f7e716b84f842182f10b06bcce90e1ff24e5c9f25f848a3f8e64b7de07"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -1048,11 +1048,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "4a5d695b427eb5f9e9e05987c547e1a6f4d831552ea1cdf0dc815d0ba67ab50a"
-metafile = true
-
-[[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "268fbf8741bb8b9c8e7c1cea88eb638b95d2494edbe473dd1ea5f04106c82677"
 metafile = true
 
 [[files]]
