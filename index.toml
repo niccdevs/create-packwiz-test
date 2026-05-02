@@ -1641,11 +1641,6 @@ hash = "dbf910b625622730bd57e4d0512ab0cc5348e1005f003b8bcd21d4266e753b5e"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "caf3c550b3bb98eeab3abccb1d82690e516b09052e6401abe5f0403e32172a74"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "a801ce8176fb17b65cb721590c4d98c881a8de51c2c75949efbf04926662e4a9"
 metafile = true
